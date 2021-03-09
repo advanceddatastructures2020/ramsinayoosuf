@@ -47,7 +47,7 @@ if(j>=n)
 {
 while(i<m)
 {
-array3[k]=array1[i];
+array3[k]=array2[i];
 i++;
 k++;
 }
